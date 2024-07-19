@@ -7,4 +7,4 @@ Please create a folder called assets in flutter_application_1 and create a file 
 
 ## Getting Started
 
-This project will display the integration between flutter and openai
+This project will display the integration between flutter and openai. Run command "flutter run" in flutter_application_1 folder
